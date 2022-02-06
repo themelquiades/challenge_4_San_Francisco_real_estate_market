@@ -1,2 +1,2 @@
-# challenge_4_San_Francisco_real_estate_market
+# challenge_6_San_Francisco_real_estate_market
 Data visualization project focused on finding viable investment opportunities
